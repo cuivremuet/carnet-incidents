@@ -1,0 +1,15 @@
+{
+  "incidents": [
+    {
+      "atSeconds": 9.5,
+      "level": "attention",
+      "note": "Manomètre à vérifier (exemple fictif)."
+    },
+    {
+      "atSeconds": 1,
+      "level": "info",
+      "note": "Ouverture du poste d'essai fictif."
+    }
+  ]
+}
+

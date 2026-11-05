@@ -1,0 +1,16 @@
+{
+  "name": "carnet-incidents",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Transforme des observations horodatées en relevé Markdown chronologique.",
+  "engines": {
+    "node": ">=22"
+  },
+  "license": "MIT",
+  "scripts": {
+    "test": "node --test test.mjs",
+    "demo": "node main.mjs example.json exemple-sortie.md"
+  }
+}
+
